@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-image: url(https://wallpapercave.com/wp/wp2553710.jpg);
+  background-size: cover;
+  width: 100vw;
+  height: 120vh;
+
+  background-color: rgb(2, 2, 2);
+  color: white;
+}
+
+#timer {
+  align-items: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: xxx-large;
+  color: white;
+}
